@@ -8,24 +8,36 @@ NIM : 203171039
 
 ## Halaman Home
 
-![Home](https://user-images.githubusercontent.com/69692712/161010704-61ff73f4-9e96-4f2f-a862-a88eb3d2ba69.png)
+![Home](https://user-images.githubusercontent.com/69692712/161369996-bca93433-3460-4afe-86ef-bab9369e258b.png)
 
 ## Halaman Form
 
-![Form](https://user-images.githubusercontent.com/69692712/161010696-c4c66d70-4342-40a7-bc74-c1c1a95fc2d2.png)
+![Form](https://user-images.githubusercontent.com/69692712/161369988-6001f6f1-7234-4ec5-b6fa-4793af9942bd.png)
 
-## Mengisi
+## Menambahkan Item Laptop
 
-![Mengisi](https://user-images.githubusercontent.com/69692712/161010709-d7f1ee5a-01a2-447e-b432-5d540a77867f.png)
+![Tambah Item Laptop](https://user-images.githubusercontent.com/69692712/161369999-dbb5310b-6d21-4375-971d-1bc1c8db1a06.png)
 
-## Hasil
+## Hasil Tambah Item Laptop
 
-![Hasil](https://user-images.githubusercontent.com/69692712/161010700-ba136a9c-41d4-4e9f-90c2-55cf23441e39.png)
+![Hasil Tambah Item Laptop](https://user-images.githubusercontent.com/69692712/161369993-aedfa054-707b-4d76-9d44-6c37ed3e6e80.png)
 
-## Edit
+## Menambahkan Item Komputer
 
-![Edit](https://user-images.githubusercontent.com/69692712/161010692-70a25e4f-0dbd-49c7-b675-02fd866e5518.png)
+![Tambah Item Komputer](https://user-images.githubusercontent.com/69692712/161369997-d8803caa-9d32-4d3c-8855-cc340342590d.png)
 
-## Hapus
+## Hasil Tambah Item Komputer
 
-![Hapus](https://user-images.githubusercontent.com/69692712/161010697-474539ef-2eff-49fd-946f-0c31a6eb0cc2.png)
+![Hasil Tambah Item Komputer](https://user-images.githubusercontent.com/69692712/161369992-c8445247-d68d-461b-9789-e84a81ef593b.png)
+
+## Edit Item Laptop
+
+![Ubah Item Laptop](https://user-images.githubusercontent.com/69692712/161370001-e1345b10-6c8f-4c4d-b883-83b75eae5a13.png)
+
+## Hasil Edit Item Laptop
+
+![Hasil Ubah Item Laptop](https://user-images.githubusercontent.com/69692712/161369995-e9e94615-cebc-4948-8af1-62f6d8ebe14e.png)
+
+## Hapus Item Komputer
+
+![Hapus Item Komputer](https://user-images.githubusercontent.com/69692712/161369990-1ee0c145-f179-4e28-b464-0c0f742244a5.png)
